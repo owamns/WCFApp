@@ -1,0 +1,49 @@
+# Archivos y carpetas generados por el compilador
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+
+# Archivos de configuración de usuario
+*.suo
+*.user
+*.userprefs
+*.sln.ide
+
+# Archivos de configuración de Visual Studio
+.vs/
+.vscode/
+.idea/
+*.sln
+
+# Archivos de publicación
+publish/
+*.publish.xml
+
+# Archivos de bases de datos locales
+*.mdf
+*.ldf
+
+# Archivos de usuario y temporales
+*.log
+*.tmp
+*.temp
+*.cache
+Thumbs.db
+*.DS_Store
+
+# Configuraciones de NuGet
+*.nupkg
+*.nuspec
+packages/
+
+# Archivos de backup
+*.bak
+
+# Archivos de configuración de ReSharper
+*.DotSettings
+
+# Archivos generados por Swagger
+swagger/
